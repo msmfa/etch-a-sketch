@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+#container {
+  margin: 40px auto 0;
+  width: 400px;
+  height: 500px;
+  border: none;
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  border: 1px solid rgb(146, 146, 146);
+  width: 23px;
+  height: 23px;
+}
+
+#new {
+  width: 150px;
+  height: 45px;
+  border-radius: 5px;
+  font-size: 13px;
+  letter-spacing: 0.7em;
+  text-align: center;
+}
+
+#new:hover {
+  color: rgb(121, 121, 121);
+}
+
+#new:focus {
+  outline: 0;
+}

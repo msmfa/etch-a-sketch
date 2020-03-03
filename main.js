@@ -1,7 +1,5 @@
 const container = document.getElementById("container");
 
-//Creates Div Elements
-
 function createDivs() {
   for (let i = 0; i < 17 * 17; i++) {
     const content = document.createElement("div");

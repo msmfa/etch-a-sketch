@@ -1,1 +1,25 @@
-This was a simple Etch a Sketch Project. I mainly used it to practice event handling with Vanilla Javascript and CSS Flexbox.
+## Etch a Sketch
+
+## Deployment
+*...link to site/what to download/what to install
+## App in Action
+![](IMG/etch-screenshot.png)
+## Build Tools & Languages
+- Javascript
+- Visual Studio Code
+- Git
+- Github
+
+## What did I learn? 
+- for loops 
+- forEach method
+- ES6 Arrow Syntax
+- Event listeners
+- Dom Manipulation 
+
+
+## Authors 
+Michael Sydney Moore 
+## License 
+
+N/A

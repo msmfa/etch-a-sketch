@@ -1,7 +1,7 @@
 ## Etch a Sketch
 
 ## Deployment
-*...link to site/what to download/what to install
+https://msmfa.github.io/etch-a-sketch/
 ## App in Action
 ![](IMG/etch-screenshot.png)
 ## Build Tools & Languages
